@@ -1,5 +1,5 @@
 # nscfetch
-A tool to fetch all GSLB/LB vservers, services and their states.
+A tool to fetch all GSLB/LB vservers, services and their states from Citrix Netscalers.
 
 # Python Packages
 * redis (storage backend)
